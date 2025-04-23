@@ -1,0 +1,25 @@
+/* 언어설정 */
+@charset "UTF-8";
+
+/* 변수 설정 */
+:root {
+  --main-color: #FF5722;
+}
+
+/* 전체설정 */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  color: #0d0d0d;
+}
+ul, ol {
+  list-style: none;
+}
+a {
+  text-decoration: none;
+  color: inherit;
+}
+img {
+  vertical-align: bottom;
+}
